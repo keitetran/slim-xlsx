@@ -9,7 +9,7 @@ Features:
 
 Install:
 ```bash
-npm i -s https://github.com/sundagy/slim-xlsx.git
+npm i -save slim-xlsx
 ```
 
 ## Example
